@@ -59,7 +59,7 @@ PushLog can receive events from **Sentry** and show them as incident notificatio
 - **Quick setup:** Create a Sentry Internal Integration with webhook URL  
   `https://pushlog.ai/api/webhooks/sentry`  
   Add an Alert Rule, and you’re done.
-- **Full guide:** [Sentry Setup →](docs/SENTRY_SETUP.md)
+- **Full guide:** [Sentry Setup →](https://github.com/pushlog-ai/PushLog/blob/main/docs/SENTRY_SETUP.md)
 
 ---
 
@@ -67,8 +67,8 @@ PushLog can receive events from **Sentry** and show them as incident notificatio
 
 Besides Sentry, you can stream **runtime errors** from your own servers using **pushlog-agent**: a small Go binary that runs on Linux, watches log files or stderr, and sends events to PushLog. Create an agent in **Settings → Agents**, get a token, then install and run the agent on your hosts.
 
-- **Docs:** [PushLog Agent (Go) →]([docs/PUSHLOG_AGENT_GO.md](https://github.com/pushlog-ai/PushLog/blob/main/docs/PUSHLOG_AGENT_GO.md)) — install, config, systemd, and usage
-- **Where:** Agent code lives in the `agent/` directory in this repo
+- **Docs:** [PushLog Agent (Go) →](https://github.com/pushlog-ai/PushLog/blob/main/docs/PUSHLOG_AGENT_GO.md) — install, config, systemd, and usage
+- **Where:** Agent code lives in the [`agent/`](https://github.com/pushlog-ai/PushLog/tree/main/agent) directory in this repo
 
 ---
 
@@ -103,9 +103,9 @@ Credits are used when AI generates push summaries. Different models use differen
 | | Link |
 |:--|:--|
 | 🌐 | **Use PushLog** → [pushlog.ai](https://pushlog.ai) |
-| 📂 | **This repository** → [PushLog/PushLog](https://github.com/PushLog/PushLog) |
-| 📖 | **Sentry setup** → [docs/SENTRY_SETUP.md](docs/SENTRY_SETUP.md) |
-| 📡 | **pushlog-agent** → [docs/PUSHLOG_AGENT_GO.md](docs/PUSHLOG_AGENT_GO.md) |
+| 📂 | **This repository** → [pushlog-ai/PushLog](https://github.com/pushlog-ai/PushLog) |
+| 📖 | **Sentry setup** → [docs/SENTRY_SETUP.md](https://github.com/pushlog-ai/PushLog/blob/main/docs/SENTRY_SETUP.md) |
+| 📡 | **pushlog-agent** → [docs/PUSHLOG_AGENT_GO.md](https://github.com/pushlog-ai/PushLog/blob/main/docs/PUSHLOG_AGENT_GO.md) |
 | 🔒 | **Privacy** → We only use what’s needed for summaries; we don’t store your code |
 
 ---
