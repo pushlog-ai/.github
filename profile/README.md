@@ -49,7 +49,7 @@
 4. **Connect Slack** → Pick the workspace and channel for notifications
 5. **Create an integration** → Link a repo to a Slack channel
 6. **Configure** → Choose AI model, branch rules, and notification preferences
-7. **Add credits** → Purchase a credit pack to power AI summaries
+7. **Power AI summaries** → Either **purchase credits** from PushLog or **add your own API key** (OpenAI or OpenRouter) in settings
 8. **Push code** → Notifications start flowing automatically 🎉
 
 ---
