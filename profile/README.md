@@ -1,6 +1,8 @@
-<div align="center">
+>
 
-# 🪵 PushLog
+<img src="https://raw.githubusercontent.com/pushlog-ai/PushLog/main/attached_assets/PushLog.png" alt="PushLog" width="120" />
+
+# PushLog
 
 ### *Intelligent code push notifications — GitHub, Slack, and AI in one place.*
 
