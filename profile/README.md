@@ -7,7 +7,7 @@
 ### *Intelligent code push notifications — GitHub, Slack, and AI in one place.*
 
 [![Website](https://img.shields.io/badge/🌐_pushlog.ai-Live-success?style=for-the-badge)](https://pushlog.ai)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/pushlog-ai/PushLog/blob/main/LICENSE)
 
 **Stop wondering what shipped. Start *seeing* it.**
 
