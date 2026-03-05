@@ -67,7 +67,7 @@ PushLog can receive events from **Sentry** and show them as incident notificatio
 
 Besides Sentry, you can stream **runtime errors** from your own servers using **pushlog-agent**: a small Go binary that runs on Linux, watches log files or stderr, and sends events to PushLog. Create an agent in **Settings → Agents**, get a token, then install and run the agent on your hosts.
 
-- **Docs:** [PushLog Agent (Go) →](docs/PUSHLOG_AGENT_GO.md) — install, config, systemd, and usage
+- **Docs:** [PushLog Agent (Go) →]([docs/PUSHLOG_AGENT_GO.md](https://github.com/pushlog-ai/PushLog/blob/main/docs/PUSHLOG_AGENT_GO.md)) — install, config, systemd, and usage
 - **Where:** Agent code lives in the `agent/` directory in this repo
 
 ---
